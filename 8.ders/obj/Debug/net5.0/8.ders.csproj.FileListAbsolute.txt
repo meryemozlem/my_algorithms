@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\ref\8.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\bin\Debug\net5.0\8.ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\ref\8.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\8.ders\obj\Debug\net5.0\8.ders.genruntimeconfig.cache

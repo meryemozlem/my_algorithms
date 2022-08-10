@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ref\ilk_ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\bin\Debug\net5.0\ilk_ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ref\ilk_ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\ilk_ders\obj\Debug\net5.0\ilk_ders.genruntimeconfig.cache
