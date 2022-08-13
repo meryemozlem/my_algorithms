@@ -7,15 +7,16 @@ namespace _9.ders
         static void Main(string[] args)
         {
             //çarpma operatörünü kullanmadan çarpma işlemi yapan uygulama
-            int sonuc=1;
+            int sonuc=0;
+
             Console.WriteLine("1. sayıyı gir: ");
             int sayi_1=Convert.ToInt16(Console.ReadLine());
             Console.WriteLine("2. sayıyı gir: ");
             int sayi_2=Convert.ToInt16(Console.ReadLine());
 
-            for(int i=sayi_1;i<=sayi_2;i+=(sayi_1+sayi_2))
+            for(int i=1;i<=sayi_1;i++)      // Tur sayısı
             {
-                sonuc=sayi_1+i;
+                sonuc+=sayi_2;              //döngü kadar toplama eklenir.
             }
 
             Console.WriteLine("Sonuç: " + sonuc);
@@ -24,3 +25,4 @@ namespace _9.ders
         }
     }
 }
+
