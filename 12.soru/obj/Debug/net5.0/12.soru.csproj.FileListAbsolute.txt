@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\ref\12.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\bin\Debug\net5.0\12.soru.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\ref\12.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\12.soru\obj\Debug\net5.0\12.soru.genruntimeconfig.cache

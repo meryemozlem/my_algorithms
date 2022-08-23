@@ -6,25 +6,34 @@ namespace _10.ders
     {
         static void Main(string[] args)
         {
-            // Girilen sayının asal sayı old. bulan uygulama
+            // Girilen sayının asal sayı old. bulan uygulama.
             int sayac=0;
-            Console.WriteLine("Bir sayı giriniz: ");
-            int sayi=Convert.ToInt16(Console.ReadLine());   
-            for(int i=2; i<sayi; i++)
-            {
-                if(sayi%i==0)
-                {
-                    sayac++;
-                }
-            }
+            Console.WriteLine("Sayı giriniz: ");
+            int sayi=Convert.ToInt16(Console.ReadLine());
 
-            if (sayac == 0)
+            if(sayi==2)
             {
-                Console.WriteLine("Girilen Sayı Asal");
+                Console.WriteLine("Sayı asaldır.");
             }
             else
             {
-                Console.WriteLine("Girilen Sayı Asal Değil");
+                for(int i=2; i<sayi;i++)
+                {
+                    if(sayi%i==0)
+                    {
+                        sayac++;
+                    }
+                }
+                
+                if(sayac>0)
+                {
+                    Console.WriteLine("Sayı asal değildir.");
+                }
+
+                else    //sayaç hala 0.
+                {
+                    Console.WriteLine("Sayı asaldır.");
+                }                
             }
         }
     }

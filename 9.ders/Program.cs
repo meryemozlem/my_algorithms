@@ -25,4 +25,3 @@ namespace _9.ders
         }
     }
 }
-
