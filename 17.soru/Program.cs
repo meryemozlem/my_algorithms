@@ -23,21 +23,21 @@ namespace _17.soru
                     {
                         islem_ucreti=para+1;
                         kalan_limit=(limit-islem_ucreti);
-                        Console.WriteLine("Genel Tutar: " + islem_ucreti);
+                        Console.WriteLine("Çekilen Tutar: " + islem_ucreti);
                         Console.WriteLine("Kalan Tutar: " + kalan_limit);
                     }
                     else if(para>=100 && para<1000)
                     {   
                         islem_ucreti=para+3;
                         kalan_limit=(limit-islem_ucreti);
-                        Console.WriteLine("Genel Tutar: " + islem_ucreti);
+                        Console.WriteLine("Çekilen Tutar: " + islem_ucreti);
                         Console.WriteLine("Kalan Tutar: " + kalan_limit);
                     }
                     else if(para>=1000)
                     {
                         islem_ucreti=para+5;
                         kalan_limit=(limit-islem_ucreti);
-                        Console.WriteLine("Genel Tutar: " + islem_ucreti);
+                        Console.WriteLine("Çekilen Tutar: " + islem_ucreti);
                         Console.WriteLine("Kalan Tutar: " + kalan_limit);
                     }
                 }
@@ -48,7 +48,7 @@ namespace _17.soru
             }
             else
             {
-                Console.WriteLine("işlem gerçekleştirilemez.");
+                Console.WriteLine("işlem gerçekleştirilemez.Limit yetersiz.");
             }
             
 
