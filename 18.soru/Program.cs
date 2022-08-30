@@ -9,7 +9,7 @@ namespace _18.soru
             //girilen sayılardan en büyüğünü ve en küçüğünü bulan uygulama
 
             int max=0;
-            int min=9999999;            //0 yazsaydık, hiç 0 girmesem bile bana min değeri 0 yollardı.Bu istenmeyen bir olay.
+            int min=9999999;            //0 yazsaydık, hiç 0 girmesem bile bana min değeri 0 yollardı.Bu istenmeyen bir olay. Ben girilen sayıların en küçüğünü istiyorum.
             for(int i=1;i<=10;i++)
             {
                 Console.Write("Sayı gir: ");
@@ -25,7 +25,6 @@ namespace _18.soru
                 }
 
             }
-
             Console.WriteLine("En büyük değer: " + max+"\n"+"En küçük değer: " + min);
             
             /*

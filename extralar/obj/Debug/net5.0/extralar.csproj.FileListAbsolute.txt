@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\ref\extralar.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\bin\Debug\net5.0\extralar.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\ref\extralar.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\extralar\obj\Debug\net5.0\extralar.genruntimeconfig.cache

@@ -7,7 +7,7 @@ namespace _17.soru
         static void Main(string[] args)
         {
             //online bankacılık uygulamasından para gönderilecek. önce limit kontrol et, limit 0 dan büyükse para gönderielecek. 
-            //gönderilecek para 100 den az ise 1 tl,100-1000 arasında 3tl, 1000 ve üzerindeyse 5tl işlem ücreti alınır.
+            //gönderilecek para 100 den az ise 1 tl,100-1000 arasında 3 tl, 1000 ve üzerindeyse 5 tl işlem ücreti alınır.
             //limit ve gönderilecek para miktarı girildiğinde toplam tutarı ekrana yazdıran uyg.
             double limit,para,islem_ucreti,kalan_limit;
             Console.WriteLine("Limitinizi giriniz: ");
@@ -19,7 +19,7 @@ namespace _17.soru
                 para=Convert.ToDouble(Console.ReadLine());
                 if(para<=limit)
                 {
-                    if(para>0 && para<100)
+                    if(para>0 && para<100)              //[1,99]
                     {
                         islem_ucreti=para+1;
                         kalan_limit=(limit-islem_ucreti);

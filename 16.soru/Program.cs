@@ -6,7 +6,8 @@ namespace _16.soru
     {
         static void Main(string[] args)
         {
-            //Günlük hayat problemi. işçinin alacağı maaş uygulaması.
+            //Günlük hayat problemi. işçinin alacağı maaş uygulaması. 40 saat ve üzerinde ise toplam çalışma saati, çalıştığı vardiya saaati 2 katı ücretle çarpılır.
+            
 
             int toplam_calisma_saati,saatbasi_ucret,vardiya_saati;
             double maas;
