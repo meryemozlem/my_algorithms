@@ -1,0 +1,13 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\bin\Debug\netcoreapp3.1\27.soru.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\27.soru\27.soru\obj\Debug\netcoreapp3.1\27.soru.genruntimeconfig.cache

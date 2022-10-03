@@ -1,0 +1,16 @@
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.csprojAssemblyReference.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.AssemblyInfoInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.AssemblyInfo.cs
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.csproj.CoreCompileInputs.cache
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.exe
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.deps.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.runtimeconfig.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.runtimeconfig.dev.json
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\ref\24.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\bin\Debug\net5.0\24.ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\ref\24.ders.dll
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.pdb
+C:\Users\mozay\OneDrive\Masaüstü\algoritma\24.ders\obj\Debug\net5.0\24.ders.genruntimeconfig.cache

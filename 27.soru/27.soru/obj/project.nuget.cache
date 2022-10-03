@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CvB0FU9TCgruohBBlNCdbdK/TpGThXLkSeg9d00zBSJnywIHqoPXQ94l2CgXxMs24Stk90JbhYcXiwBtMKGzHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mozay\\OneDrive\\Masaüstü\\algoritma\\27.soru\\27.soru\\27.soru.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mozay\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
